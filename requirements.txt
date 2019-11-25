@@ -1,0 +1,6 @@
+azure-functions
+pymongo
+pandas
+requests
+sendgrid
+sendgrid-mail
